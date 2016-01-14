@@ -1,0 +1,8 @@
+C:\Users\artur.vahanyan\Documents\Visual Studio 2008\Projects\CalculationViaWebService\CalculationViaWebService\bin\Debug\CalculationViaWebService.exe
+C:\Users\artur.vahanyan\Documents\Visual Studio 2008\Projects\CalculationViaWebService\CalculationViaWebService\bin\Debug\CalculationViaWebService.pdb
+C:\Users\artur.vahanyan\Documents\Visual Studio 2008\Projects\CalculationViaWebService\CalculationViaWebService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\artur.vahanyan\Documents\Visual Studio 2008\Projects\CalculationViaWebService\CalculationViaWebService\obj\Debug\CalculationViaWebService.Form1.resources
+C:\Users\artur.vahanyan\Documents\Visual Studio 2008\Projects\CalculationViaWebService\CalculationViaWebService\obj\Debug\CalculationViaWebService.Properties.Resources.resources
+C:\Users\artur.vahanyan\Documents\Visual Studio 2008\Projects\CalculationViaWebService\CalculationViaWebService\obj\Debug\CalculationViaWebService.csproj.GenerateResource.Cache
+C:\Users\artur.vahanyan\Documents\Visual Studio 2008\Projects\CalculationViaWebService\CalculationViaWebService\obj\Debug\CalculationViaWebService.exe
+C:\Users\artur.vahanyan\Documents\Visual Studio 2008\Projects\CalculationViaWebService\CalculationViaWebService\obj\Debug\CalculationViaWebService.pdb
